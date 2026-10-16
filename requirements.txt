@@ -1,0 +1,3 @@
+# The quiz frontend itself has no Python package dependencies.
+# Python 3 is used only for the included PDF extraction/build script.
+PyMuPDF>=1.24
